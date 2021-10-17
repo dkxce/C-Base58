@@ -1,0 +1,5 @@
+C:\Downloads\CD-REC\TEST\Base58\Base58\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\Base58\Base58\bin\Debug\Base58.exe
+C:\Downloads\CD-REC\TEST\Base58\Base58\bin\Debug\Base58.pdb
+C:\Downloads\CD-REC\TEST\Base58\Base58\obj\Debug\Base58.exe
+C:\Downloads\CD-REC\TEST\Base58\Base58\obj\Debug\Base58.pdb
